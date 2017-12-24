@@ -1,3 +1,11 @@
-# My Awesome Book
+# Learn Scratch Magic Way
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+This book will contain four part. 
+
+1. Scratch ABC
+2. Advance skills of programming
+3. Math and physics applications
+4. Game design topics
+
+
+

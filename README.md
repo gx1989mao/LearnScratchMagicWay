@@ -1,4 +1,4 @@
-# scratch魔法学
+# ![](/assets/图片1.png)scratch魔法学
 
 本书将包含四个部分：
 
@@ -6,8 +6,6 @@
 2. 程序逻辑以及Scratch高级技能
 3. 数学和物理概念可视化应用
 4. 游戏设计专题
-
-
 
 # Learn Scratch Magic Way
 

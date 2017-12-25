@@ -40,10 +40,13 @@
     * 撬地球的棍子 简单机构
     * 最接近魔法的学问 电磁
 * Part 4: 游戏设计专题
+
   * [你真正了解游戏么 上帝视角的游戏设计](ni-zhen-zheng-le-jie-you-xi-yao-shang-di-shi-jiao-de-you-xi-she-ji.md)
-    * [游戏核心设计原则 权衡 心流和反馈](https://www.gitbook.com/book/gx1989mao/learn-scratch-magic-way/edit#)
+
+    * 游戏核心设计原则 权衡 心流和反馈
 
     * 游戏引擎是什么
+
   * 行走在确定和随机之间 随机专题
   * 撒豆成兵千军万马 克隆专题
   * 掌控了时间的魔法师们 状态回溯和时间操控专题

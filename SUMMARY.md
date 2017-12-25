@@ -13,18 +13,18 @@
 * [Part 2: 程序逻辑及Scratch高级技能](part-2-cheng-xu-luo-ji-ji-scratch-gao-ji-ji-neng.md)
   * Scratch的抽象世界
     * [变量可以实现哪些事](https://www.gitbook.com/book/gx1989mao/learn-scratch-magic-way/edit#)
-
     * [布尔表达式和逻辑运算 另一种加减乘除](bu-er-biao-da-shi-he-luo-ji-yun-suan-ling-yi-zhong-jia-jian-cheng-chu.md)
     * [列表 有序世界的基础](lie-biao-you-xu-shi-jie-de-ji-chu.md)
     * [循环 批量化的天使](xun-huan-pi-liang-hua-de-tian-shi.md)
     * [计算机科学的发展史就是一部抽象史 函数](ji-suan-ji-ke-xue-de-fa-zhan-shi-jiu-shi-yi-bu-chou-xiang-shi-han-shu.md)
-  * [问题还没开始处理就已经被解决 递归](wen-ti-huan-mei-kai-shi-chu-li-jiu-yi-jing-bei-jie-jue-di-gui.md)
-  * 排序和查找 有序和贪婪
-  * 要撇清关系 找链表队列
-  * [堆栈和树的关系](dui-zhan-he-shu-you-sha-guan-xi.md)
-  * 风险 加锁和竞争
-  * 上知天文下知地理的预测 回归
-  * 从开关到王者荣耀 计算机组成
+  * 抽象世界深处
+    * [问题还没开始处理就已经被解决 递归](wen-ti-huan-mei-kai-shi-chu-li-jiu-yi-jing-bei-jie-jue-di-gui.md)
+    * 排序和查找 有序和贪婪
+    * 要撇清关系 找链表队列
+    * [堆栈和树的关系](dui-zhan-he-shu-you-sha-guan-xi.md)
+    * 风险 加锁和竞争
+    * 上知天文下知地理的预测 回归
+    * 从开关到王者荣耀 计算机组成
 * [Part 3: 数学和物理概念可视化应用](part-3-shu-xue-he-wu-li-gai-nian-ke-shi-hua-ying-yong.md)
   * 数学黑魔法
     * 数论 高斯的光芒

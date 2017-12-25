@@ -2,9 +2,11 @@
 
 * [Introduction](README.md)
 * [Part 1: Scratch入门](part-1-scratchru-men.md)
-  * [Scratch界面和基础使用方法](part-1-scratchru-men/scratchjie-mian-he-ji-chu-shi-yong-fang-fa.md)
-  * [Scratch积木和潜在应用](part-1-scratchru-men/scratchji-mu-he-qian-zai-ying-yong.md)
-  * [Scratch疑难问题举例](part-1-scratchru-men/scratchyi-nan-wen-ti-ju-li.md)
+  * Scratch ABC
+    * [Scratch界面和基础使用方法](https://www.gitbook.com/book/gx1989mao/learn-scratch-magic-way/edit#)
+
+    * [Scratch积木和潜在应用](part-1-scratchru-men/scratchji-mu-he-qian-zai-ying-yong.md)
+    * [Scratch疑难问题举例](part-1-scratchru-men/scratchyi-nan-wen-ti-ju-li.md)
   * [Scratch的形象世界](part-1-scratchru-men/scratchde-xing-xiang-shi-jie.md)
     * 简单运动控制
     * 画笔和运动结合的威力
@@ -46,7 +48,6 @@
     * 游戏为谁设计 四象限人格论
     * 地牢的迷思 现实和虚幻的边界
     * 超高难度游戏为什么有死忠粉 心流体验
-
   * 大巧造物 游戏设计专题
     * 行走在确定和随机之间 随机专题
     * 撒豆成兵千军万马 克隆专题

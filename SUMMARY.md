@@ -11,11 +11,13 @@
     * 外观控制和简单序列帧动画
     * 声音控制和局限
 * [Part 2: 程序逻辑及Scratch高级技能](part-2-cheng-xu-luo-ji-ji-scratch-gao-ji-ji-neng.md)
-  * [变量可以实现哪些事](bian-liang-ke-yi-shi-xian-na-xie-shi.md)
-  * [布尔表达式和逻辑运算 另一种加减乘除](bu-er-biao-da-shi-he-luo-ji-yun-suan-ling-yi-zhong-jia-jian-cheng-chu.md)
-  * [列表 有序世界的基础](lie-biao-you-xu-shi-jie-de-ji-chu.md)
-  * [循环 批量化的天使](xun-huan-pi-liang-hua-de-tian-shi.md)
-  * [计算机科学的发展史就是一部抽象史 函数](ji-suan-ji-ke-xue-de-fa-zhan-shi-jiu-shi-yi-bu-chou-xiang-shi-han-shu.md)
+  * Scratch的抽象世界
+    * [变量可以实现哪些事](https://www.gitbook.com/book/gx1989mao/learn-scratch-magic-way/edit#)
+
+    * [布尔表达式和逻辑运算 另一种加减乘除](bu-er-biao-da-shi-he-luo-ji-yun-suan-ling-yi-zhong-jia-jian-cheng-chu.md)
+    * [列表 有序世界的基础](lie-biao-you-xu-shi-jie-de-ji-chu.md)
+    * [循环 批量化的天使](xun-huan-pi-liang-hua-de-tian-shi.md)
+    * [计算机科学的发展史就是一部抽象史 函数](ji-suan-ji-ke-xue-de-fa-zhan-shi-jiu-shi-yi-bu-chou-xiang-shi-han-shu.md)
   * [问题还没开始处理就已经被解决 递归](wen-ti-huan-mei-kai-shi-chu-li-jiu-yi-jing-bei-jie-jue-di-gui.md)
   * 排序和查找 有序和贪婪
   * 要撇清关系 找链表队列
@@ -37,4 +39,6 @@
     * 撬地球的棍子 简单机构
     * 最接近魔法的学问 电磁
 * Part 4: 游戏设计专题
+
+
 

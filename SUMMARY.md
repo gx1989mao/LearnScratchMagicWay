@@ -4,7 +4,7 @@
 * [Part 1: Scratch入门](part-1-scratchru-men.md)
   * [Scratch ABC](part-1-scratchru-men/scratch-abc.md)
     * [Scratch界面和基础使用](part-1-scratchru-men/scratch-abc/scratchjie-mian-he-ji-chu-shi-yong-fang-fa.md)
-    * [Scratch积木和潜在应用](part-1-scratchru-men/scratch-abc/scratchji-mu-he-qian-zai-ying-yong.md)
+    * [Scratch积木和应用原则](part-1-scratchru-men/scratch-abc/scratchji-mu-he-qian-zai-ying-yong.md)
     * [Scratch疑难问题举例](part-1-scratchru-men/scratch-abc/scratchyi-nan-wen-ti-ju-li.md)
   * [Scratch的形象世界](part-1-scratchru-men/scratchde-xing-xiang-shi-jie.md)
     * 简单运动控制
@@ -53,6 +53,4 @@
     * 掌控了时间的魔法师们 状态回溯和时间操控专题
     * 一瞬间天翻地覆 逐帧渲染和特效合成专题
     * 提前规划 妥善抽象 合作开发和设计模式专题
-
-
 

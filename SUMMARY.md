@@ -10,6 +10,13 @@
     * 画笔和运动结合的威力
     * 外观控制和简单序列帧动画
     * 声音控制和局限
+* [Part 2: 程序逻辑及Scratch高级技能](part-2-cheng-xu-luo-ji-ji-scratch-gao-ji-ji-neng.md)
+  * [变量可以实现哪些事](bian-liang-ke-yi-shi-xian-na-xie-shi.md)
+  * 布尔表达式和逻辑运算 另一种加减乘除
+  * [问题还没开始处理就已经被解决 递归](wen-ti-huan-mei-kai-shi-chu-li-jiu-yi-jing-bei-jie-jue-di-gui.md)
+  * 列表 有序世界的基础
+  * 计算机科学的发展史就是一部抽象史 函数
+  * 循环 批量化的天使
 
 
 

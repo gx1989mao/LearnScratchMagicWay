@@ -12,7 +12,7 @@
     * 声音控制和局限
 * [Part 2: 程序逻辑及Scratch高级技能](part-2-cheng-xu-luo-ji-ji-scratch-gao-ji-ji-neng.md)
   * Scratch的抽象世界
-    * [变量可以实现哪些事](https://www.gitbook.com/book/gx1989mao/learn-scratch-magic-way/edit#)
+    * 变量可以实现哪些事
     * [布尔表达式和逻辑运算 另一种加减乘除](bu-er-biao-da-shi-he-luo-ji-yun-suan-ling-yi-zhong-jia-jian-cheng-chu.md)
     * [列表 有序世界的基础](lie-biao-you-xu-shi-jie-de-ji-chu.md)
     * [循环 批量化的天使](xun-huan-pi-liang-hua-de-tian-shi.md)

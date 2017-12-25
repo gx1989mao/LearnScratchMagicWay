@@ -1,50 +1,55 @@
 # Summary
 
-* [Introduction](README.md)
-* [Part 1: Scratch入门](part-1-scratchru-men.md)
-  * Scratch ABC
-    * [Scratch界面和基础使用方法](https://www.gitbook.com/book/gx1989mao/learn-scratch-magic-way/edit#)
+* Introduction
+* Part 1: Scratch入门
 
-    * [Scratch积木和潜在应用](part-1-scratchru-men/scratchji-mu-he-qian-zai-ying-yong.md)
-    * [Scratch疑难问题举例](part-1-scratchru-men/scratchyi-nan-wen-ti-ju-li.md)
-  * [Scratch的形象世界](part-1-scratchru-men/scratchde-xing-xiang-shi-jie.md)
+  * Scratch ABC
+
+    * Scratch界面和基础使用方法
+
+    * Scratch积木和潜在应用
+
+    * Scratch疑难问题举例
+
+  * Scratch的形象世界
     * 简单运动控制
     * 画笔和运动结合的威力
     * 外观控制和简单序列帧动画
     * 声音控制和局限
-* [Part 2: 程序逻辑及Scratch高级技能](part-2-cheng-xu-luo-ji-ji-scratch-gao-ji-ji-neng.md)
+
+* Part 2: 程序逻辑及Scratch高级技能
   * Scratch的抽象世界
     * 变量可以实现哪些事
-    * [布尔表达式和逻辑运算 另一种加减乘除](bu-er-biao-da-shi-he-luo-ji-yun-suan-ling-yi-zhong-jia-jian-cheng-chu.md)
-    * [列表 有序世界的基础](lie-biao-you-xu-shi-jie-de-ji-chu.md)
-    * [循环 批量化的天使](xun-huan-pi-liang-hua-de-tian-shi.md)
-    * [计算机科学的发展史就是一部抽象史 函数](ji-suan-ji-ke-xue-de-fa-zhan-shi-jiu-shi-yi-bu-chou-xiang-shi-han-shu.md)
+    * 布尔表达式和逻辑运算 另一种加减乘除
+    * 列表 有序世界的基础
+    * 循环 批量化的天使
+    * 计算机科学的发展史就是一部抽象史 函数
   * 抽象世界深处
-    * [问题还没开始处理就已经被解决 递归](wen-ti-huan-mei-kai-shi-chu-li-jiu-yi-jing-bei-jie-jue-di-gui.md)
+    * 问题还没开始处理就已经被解决 递归
     * 排序和查找 有序和贪婪
     * 要撇清关系 找链表队列
-    * [降维打击 二维数组的实现](jiang-wei-da-ji-er-wei-shu-zu-de-shi-xian.md)
-    * [堆栈和树的关系](dui-zhan-he-shu-you-sha-guan-xi.md)
+    * 降维打击 二维数组的实现
+    * 堆栈和树的关系
     * 风险 加锁和竞争
     * 上知天文下知地理的预测 回归
     * 从开关到王者荣耀 计算机组成
-* [Part 3: 数学和物理概念可视化应用](part-3-shu-xue-he-wu-li-gai-nian-ke-shi-hua-ying-yong.md)
+* Part 3: 数学和物理概念可视化应用
   * 数学黑魔法
     * 数论 高斯的光芒
     * 指数对数和苹果树
     * 太阳和尼罗河 进制
     * 赌神必备 概率和随机
     * 让暴躁的世界平缓点 简单滤波器
-    * [以牙还牙的汉莫拉比法典 博弈论](yi-ya-huan-ya-han-mo-la-bi-fa-dian-bo-yi-lun.md)
+    * 以牙还牙的汉莫拉比法典 博弈论
   * 物理白魔法
     * 经典的力和加速度
     * 三角函数和力的分解
     * 撬地球的棍子 简单机构
     * 最接近魔法的学问 电磁
 * Part 4: 游戏设计专题
-  * [你真正了解游戏么 上帝视角的游戏设计](ni-zhen-zheng-le-jie-you-xi-yao-shang-di-shi-jiao-de-you-xi-she-ji.md)
-    * [游戏引擎是什么](ni-zhen-zheng-le-jie-you-xi-yao-shang-di-shi-jiao-de-you-xi-she-ji/you-xi-yin-qing-shi-shi-yao.md)
-    * [游戏核心 是什么让游戏有趣](ni-zhen-zheng-le-jie-you-xi-yao-shang-di-shi-jiao-de-you-xi-she-ji/you-xi-he-xin-she-ji-yuan-ze-quan-heng-xin-liu-he-fan-kui.md)
+  * 你真正了解游戏么 上帝视角的游戏设计
+    * 游戏引擎是什么
+    * 游戏核心 是什么让游戏有趣
     * 游戏为谁设计 四象限人格论
     * 地牢的迷思 现实和虚幻的边界
     * 超高难度游戏为什么有死忠粉 心流体验

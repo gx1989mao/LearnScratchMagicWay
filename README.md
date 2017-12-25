@@ -1,4 +1,4 @@
-# ![](/assets/图片1.png)Scratch魔法学
+# ![](/assets/Logo.png)Scratch魔法学
 
 本书将包含四个部分：
 

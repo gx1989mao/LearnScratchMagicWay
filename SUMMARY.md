@@ -40,17 +40,18 @@
     * 撬地球的棍子 简单机构
     * 最接近魔法的学问 电磁
 * Part 4: 游戏设计专题
-
   * [你真正了解游戏么 上帝视角的游戏设计](ni-zhen-zheng-le-jie-you-xi-yao-shang-di-shi-jiao-de-you-xi-she-ji.md)
+    * [游戏引擎是什么](ni-zhen-zheng-le-jie-you-xi-yao-shang-di-shi-jiao-de-you-xi-she-ji/you-xi-yin-qing-shi-shi-yao.md)
+    * [游戏核心 是什么让游戏有趣](ni-zhen-zheng-le-jie-you-xi-yao-shang-di-shi-jiao-de-you-xi-she-ji/you-xi-he-xin-she-ji-yuan-ze-quan-heng-xin-liu-he-fan-kui.md)
+    * 游戏为谁设计 四象限人格论
+    * 地牢的迷思 现实和虚幻的边界
+    * 超高难度游戏为什么有死忠粉 心流体验
 
-    * 游戏核心设计原则 权衡 心流和反馈
-
-    * 游戏引擎是什么
-
-  * 行走在确定和随机之间 随机专题
-  * 撒豆成兵千军万马 克隆专题
-  * 掌控了时间的魔法师们 状态回溯和时间操控专题
-  * 一瞬间天翻地覆 逐帧渲染和特效合成专题
+  * 大巧造物 游戏设计专题
+    * 行走在确定和随机之间 随机专题
+    * 撒豆成兵千军万马 克隆专题
+    * 掌控了时间的魔法师们 状态回溯和时间操控专题
+    * 一瞬间天翻地覆 逐帧渲染和特效合成专题
 
 
 

@@ -9,7 +9,7 @@
 
 # Learn Scratch Magic Way
 
-This book will contain four part.
+This book will contain four parts.
 
 1. Scratch ABC
 2. Advance skills of programming
@@ -51,5 +51,5 @@ Scratch的编辑器十分类似于Unity等主流游戏编辑器，sprites & scri
 
 本书不涉及任何对Scratch原有代码底层的更改，使用版本为Scratch 2.0 offline \([https://scratch.mit.edu/download](http://scratch.mit.edu/download)\)
 
-本书之中涉及的代码均为作者团队原创，如果遗漏了引用，请及时联系作者更改
+本书之中涉及的代码均为作者团队原创，如遗漏了引用，请及时联系作者更改
 

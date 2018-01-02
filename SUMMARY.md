@@ -52,5 +52,5 @@
     * [撒豆成兵千军万马 克隆专题](sa-dou-cheng-bing-qian-jun-wan-ma-ke-long-zhuan-ti.md)
     * [掌控了时间的魔法师们 状态回溯和时间操控专题](zhang-kong-le-shi-jian-de-mo-fa-shi-men-zhuang-tai-hui-su-he-shi-jian-cao-kong-zhuan-ti.md)
     * [一瞬间天翻地覆 逐帧渲染和特效合成专题](yi-shun-jian-tian-fan-di-fu-zhu-zheng-xuan-ran-he-te-xiao-he-cheng-zhuan-ti.md)
-    * 提前规划 妥善抽象 合作开发和设计模式专题
+    * [提前规划 妥善抽象 合作开发和设计模式专题](ti-qian-gui-hua-tuo-shan-chou-xiang-he-zuo-kai-fa-he-she-ji-mo-shi-zhuan-ti.md)
 

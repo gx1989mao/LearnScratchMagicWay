@@ -45,8 +45,8 @@
     * [游戏引擎是什么](you-xi-yin-qing-shi-shi-yao.md)
     * [游戏核心 是什么让游戏有趣](you-xi-he-xin-shi-shi-yao-rang-you-xi-you-qu.md)
     * [游戏为谁设计 四象限人格论](you-xi-wei-shui-she-ji-si-xiang-xian-ren-ge-lun.md)
-    * 地牢的迷思 游走在现实和虚幻的边界
-    * 超高难度游戏为什么有死忠粉 心流体验
+    * [地牢的迷思 游走在现实和虚幻的边界](di-lao-de-mi-si-you-zou-zai-xian-shi-he-xu-huan-de-bian-jie.md)
+    * [超高难度游戏为什么有死忠粉 心流体验](chao-gao-nan-du-you-xi-wei-shi-yao-you-si-zhong-fen-xin-liu-ti-yan.md)
   * 大巧造物 游戏设计专题
     * 行走在确定和随机之间 随机专题
     * [撒豆成兵千军万马 克隆专题](sa-dou-cheng-bing-qian-jun-wan-ma-ke-long-zhuan-ti.md)

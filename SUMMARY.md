@@ -39,7 +39,7 @@
     * 经典的力和加速度
     * 三角函数和力的分解
     * 撬地球的棍子 简单机构
-    * 最接近魔法的学问 电磁
+    * [最接近魔法的学问 电磁](zui-jie-jin-mo-fa-de-xue-wen-dian-ci.md)
 * Part 4: 游戏设计专题
   * [你真正了解游戏么 上帝视角的游戏设计](ni-zhen-zheng-le-jie-you-xi-yao-shang-di-shi-jiao-de-you-xi-she-ji.md)
     * [游戏引擎是什么](you-xi-yin-qing-shi-shi-yao.md)

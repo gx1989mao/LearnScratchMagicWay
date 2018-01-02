@@ -7,7 +7,7 @@
     * [Scratch积木和应用原则](part-1-scratchru-men/scratch-abc/scratchji-mu-he-qian-zai-ying-yong.md)
     * [Scratch疑难问题举例](part-1-scratchru-men/scratch-abc/scratchyi-nan-wen-ti-ju-li.md)
   * [Scratch的形象世界](part-1-scratchru-men/scratchde-xing-xiang-shi-jie.md)
-    * 简单运动控制
+    * [简单运动控制](part-1-scratchru-men/scratchde-xing-xiang-shi-jie/jian-dan-yun-dong-kong-zhi.md)
     * 画笔和运动结合的威力
     * 外观控制和简单序列帧动画
     * 声音控制和局限
@@ -43,13 +43,13 @@
 * Part 4: 游戏设计专题
   * 你真正了解游戏么 上帝视角的游戏设计
     * 游戏引擎是什么
-    * 游戏核心 是什么让游戏有趣
+    * [游戏核心 是什么让游戏有趣](you-xi-he-xin-shi-shi-yao-rang-you-xi-you-qu.md)
     * 游戏为谁设计 四象限人格论
     * 地牢的迷思 游走在现实和虚幻的边界
     * 超高难度游戏为什么有死忠粉 心流体验
   * 大巧造物 游戏设计专题
     * 行走在确定和随机之间 随机专题
-    * 撒豆成兵千军万马 克隆专题
+    * [撒豆成兵千军万马 克隆专题](sa-dou-cheng-bing-qian-jun-wan-ma-ke-long-zhuan-ti.md)
     * 掌控了时间的魔法师们 状态回溯和时间操控专题
     * 一瞬间天翻地覆 逐帧渲染和特效合成专题
     * 提前规划 妥善抽象 合作开发和设计模式专题

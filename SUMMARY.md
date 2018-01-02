@@ -42,7 +42,7 @@
     * 最接近魔法的学问 电磁
 * Part 4: 游戏设计专题
   * 你真正了解游戏么 上帝视角的游戏设计
-    * 游戏引擎是什么
+    * [游戏引擎是什么](you-xi-yin-qing-shi-shi-yao.md)
     * [游戏核心 是什么让游戏有趣](you-xi-he-xin-shi-shi-yao-rang-you-xi-you-qu.md)
     * 游戏为谁设计 四象限人格论
     * 地牢的迷思 游走在现实和虚幻的边界

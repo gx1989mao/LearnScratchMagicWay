@@ -31,8 +31,8 @@
   * 数学黑魔法
     * [数论 高斯的光芒](shu-lun-gao-si-de-guang-mang.md)
     * [指数对数和苹果树](zhi-shu-dui-shu-he-ping-guo-shu.md)
-    * 太阳和尼罗河 进制
-    * 赌神必备 概率和随机
+    * [太阳和尼罗河 进制](tai-yang-he-ni-luo-he-jin-zhi.md)
+    * [赌神必备 概率和随机](du-shen-bi-bei-gai-lv-he-sui-ji.md)
     * 黑客的帝国 矩阵
     * 让暴躁的世界平缓 简单滤波器
     * 摊开的地球仪 卡诺图和逻辑化简

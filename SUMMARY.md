@@ -34,8 +34,8 @@
     * [太阳和尼罗河 进制](tai-yang-he-ni-luo-he-jin-zhi.md)
     * [赌神必备 概率和随机](du-shen-bi-bei-gai-lv-he-sui-ji.md)
     * [黑客的帝国 矩阵](hei-ke-de-di-guo-ju-zhen.md)
-    * 莱布尼茨我不服 微积分
-    * 让暴躁的世界平缓 简单滤波器
+    * [莱布尼茨我不服 微积分](lai-bu-ni-ci-wo-bu-fu-wei-ji-fen.md)
+    * [让暴躁的世界平缓 简单滤波器](rang-bao-zao-de-shi-jie-ping-huan-jian-dan-lv-bo-qi.md)
     * 摊开的地球仪 卡诺图和逻辑化简
     * 田忌的小算盘 规划问题
     * 以牙还牙的汉莫拉比法典 博弈论

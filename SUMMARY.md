@@ -10,10 +10,9 @@
     * [简单运动控制](part-1-scratchru-men/scratchde-xing-xiang-shi-jie/jian-dan-yun-dong-kong-zhi.md)
     * [画笔和运动结合的威力](part-1-scratchru-men/scratchde-xing-xiang-shi-jie/hua-bi-he-yun-dong-jie-he-de-wei-li.md)
     * [外观控制和简单序列帧动画](part-1-scratchru-men/scratchde-xing-xiang-shi-jie/wai-guan-kong-zhi-he-jian-dan-xu-lie-zheng-dong-hua.md)
-    * 声音控制和局限
 * Part 2: 程序逻辑及Scratch高级技能
   * Scratch的抽象世界
-    * 变量可以实现哪些事
+    * [变量可以实现哪些事](bian-liang-ke-yi-shi-xian-na-xie-shi.md)
     * 布尔表达式和逻辑运算 另一种加减乘除
     * 列表 有序世界的基础
     * 循环 批量化的天使

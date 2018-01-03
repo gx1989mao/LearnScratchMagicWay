@@ -44,6 +44,7 @@
     * [最接近魔法的学问 电磁](zui-jie-jin-mo-fa-de-xue-wen-dian-ci.md)
 * Part 4: 游戏设计专题
   * [你真正了解游戏么 上帝视角的游戏设计](ni-zhen-zheng-le-jie-you-xi-yao-shang-di-shi-jiao-de-you-xi-she-ji.md)
+    * [游戏类型和发展史](you-xi-lei-xing-he-fa-zhan-shi.md)
     * [游戏引擎是什么](you-xi-yin-qing-shi-shi-yao.md)
     * [游戏核心 是什么让游戏有趣](you-xi-he-xin-shi-shi-yao-rang-you-xi-you-qu.md)
     * [游戏为谁设计 四象限人格论](you-xi-wei-shui-she-ji-si-xiang-xian-ren-ge-lun.md)

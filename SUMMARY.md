@@ -23,9 +23,9 @@
     * [避免耦合 队列](yao-pie-qing-guan-xi-zhao-lian-biao-dui-lie.md)
     * [堆栈和树的关系](dui-zhan-he-shu-de-guan-xi.md)
     * [降维打击 二维数组的实现](jiang-wei-da-ji-er-wei-shu-zu-de-shi-xian.md)
+    * [上知天文下知地理的预测 回归](shang-zhi-tian-wen-xia-zhi-di-li-de-yu-ce-hui-gui.md)
     * [风险 加锁和竞争](feng-xian-jia-suo-he-jing-zheng.md)
-    * 上知天文下知地理的预测 回归
-    * 从开关到王者荣耀 计算机组成
+    * [从开关到王者荣耀 计算机组成](cong-kai-guan-dao-wang-zhe-rong-yao-ji-suan-ji-zu-cheng.md)
 * Part 3: 数学和物理概念可视化应用
   * 数学黑魔法
     * [数论 高斯的光芒](shu-lun-gao-si-de-guang-mang.md)

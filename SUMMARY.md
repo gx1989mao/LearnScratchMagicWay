@@ -36,7 +36,7 @@
     * [黑客的帝国 矩阵](hei-ke-de-di-guo-ju-zhen.md)
     * [莱布尼茨我不服 微积分](lai-bu-ni-ci-wo-bu-fu-wei-ji-fen.md)
     * [让暴躁的世界平缓 简单滤波器](rang-bao-zao-de-shi-jie-ping-huan-jian-dan-lv-bo-qi.md)
-    * 摊开的地球仪 卡诺图和逻辑化简
+    * [摊开的地球仪 卡诺图和逻辑化简](tan-kai-de-di-qiu-yi-qia-nuo-tu-he-luo-ji-hua-jian.md)
     * 田忌的小算盘 规划问题
     * 以牙还牙的汉莫拉比法典 博弈论
   * 物理白魔法

@@ -13,7 +13,7 @@
 * Part 2: 程序逻辑及Scratch高级技能
   * Scratch的抽象世界
     * [变量可以实现哪些事](bian-liang-ke-yi-shi-xian-na-xie-shi.md)
-    * 布尔表达式和逻辑运算 另一种加减乘除
+    * [布尔表达式和逻辑运算 另一种加减乘除](bu-er-biao-da-shi-he-luo-ji-yun-suan-ling-yi-zhong-jia-jian-cheng-chu.md)
     * 列表 有序世界的基础
     * 循环 批量化的天使
     * 计算机科学的发展史就是一部抽象史 函数

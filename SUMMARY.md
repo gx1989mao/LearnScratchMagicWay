@@ -11,7 +11,7 @@
     * [画笔和运动结合的威力](part-1-scratchru-men/scratchde-xing-xiang-shi-jie/hua-bi-he-yun-dong-jie-he-de-wei-li.md)
     * [外观控制和简单序列帧动画](part-1-scratchru-men/scratchde-xing-xiang-shi-jie/wai-guan-kong-zhi-he-jian-dan-xu-lie-zheng-dong-hua.md)
 * Part 2: 程序逻辑及Scratch高级技能
-  * Scratch的抽象世界
+  * [Scratch的抽象世界](scratchde-chou-xiang-shi-jie.md)
     * [变量可以实现哪些事](bian-liang-ke-yi-shi-xian-na-xie-shi.md)
     * [布尔表达式和逻辑运算 另一种加减乘除](bu-er-biao-da-shi-he-luo-ji-yun-suan-ling-yi-zhong-jia-jian-cheng-chu.md)
     * [列表 有序世界的基础](lie-biao-you-xu-shi-jie-de-ji-chu.md)

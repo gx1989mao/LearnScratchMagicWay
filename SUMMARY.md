@@ -14,9 +14,9 @@
   * Scratch的抽象世界
     * [变量可以实现哪些事](bian-liang-ke-yi-shi-xian-na-xie-shi.md)
     * [布尔表达式和逻辑运算 另一种加减乘除](bu-er-biao-da-shi-he-luo-ji-yun-suan-ling-yi-zhong-jia-jian-cheng-chu.md)
-    * 列表 有序世界的基础
-    * 循环 批量化的天使
-    * 计算机科学的发展史就是一部抽象史 函数
+    * [列表 有序世界的基础](lie-biao-you-xu-shi-jie-de-ji-chu.md)
+    * [循环 批量化的天使](xun-huan-pi-liang-hua-de-tian-shi.md)
+    * [计算机科学的发展史就是一部抽象史 函数](ji-suan-ji-ke-xue-de-fa-zhan-shi-jiu-shi-yi-bu-chou-xiang-shi-han-shu.md)
   * 抽象世界深处
     * 问题还没开始处理就已经被解决 递归
     * 排序和查找 有序和贪婪

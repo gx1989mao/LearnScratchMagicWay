@@ -19,7 +19,7 @@
     * [计算机科学的发展史就是一部抽象史 函数](ji-suan-ji-ke-xue-de-fa-zhan-shi-jiu-shi-yi-bu-chou-xiang-shi-han-shu.md)
   * 抽象世界深处
     * [问题还没开始处理就已经被解决 递归](wen-ti-huan-mei-kai-shi-chu-li-jiu-yi-jing-bei-jie-jue-di-gui.md)
-    * 排序和查找 有序和贪婪
+    * [排序和查找 有序和贪婪](pai-xu-he-cha-zhao-you-xu-he-tan-lan.md)
     * [避免耦合 队列](yao-pie-qing-guan-xi-zhao-lian-biao-dui-lie.md)
     * 降维打击 二维数组的实现
     * 堆栈和树的关系

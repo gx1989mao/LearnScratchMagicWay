@@ -39,10 +39,9 @@
     * [摊开的地球仪 卡诺图和逻辑化简](tan-kai-de-di-qiu-yi-qia-nuo-tu-he-luo-ji-hua-jian.md)
     * [田忌的小算盘 规划问题](tian-ji-de-xiao-suan-pan-gui-hua-wen-ti.md)
     * [以牙还牙的汉莫拉比法典 博弈论](yi-ya-huan-ya-de-han-mo-la-bi-fa-dian-bo-yi-lun.md)
-  * 物理白魔法
-    * 经典的力和加速度
-    * 三角函数和力的分解
-    * 撬地球的棍子 简单机构
+  * [物理白魔法](wu-li-bai-mo-fa.md)
+    * [经典的力和加速度](jing-dian-de-li-he-jia-su-du.md)
+    * [撬地球的棍子 简单机构](qiao-di-qiu-de-gun-zi-jian-dan-ji-gou.md)
     * [最接近魔法的学问 电磁](zui-jie-jin-mo-fa-de-xue-wen-dian-ci.md)
 * Part 4: 游戏设计专题
   * [你真正了解游戏么 上帝视角的游戏设计](ni-zhen-zheng-le-jie-you-xi-yao-shang-di-shi-jiao-de-you-xi-she-ji.md)

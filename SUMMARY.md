@@ -37,8 +37,8 @@
     * [莱布尼茨我不服 微积分](lai-bu-ni-ci-wo-bu-fu-wei-ji-fen.md)
     * [让暴躁的世界平缓 简单滤波器](rang-bao-zao-de-shi-jie-ping-huan-jian-dan-lv-bo-qi.md)
     * [摊开的地球仪 卡诺图和逻辑化简](tan-kai-de-di-qiu-yi-qia-nuo-tu-he-luo-ji-hua-jian.md)
-    * 田忌的小算盘 规划问题
-    * 以牙还牙的汉莫拉比法典 博弈论
+    * [田忌的小算盘 规划问题](tian-ji-de-xiao-suan-pan-gui-hua-wen-ti.md)
+    * [以牙还牙的汉莫拉比法典 博弈论](yi-ya-huan-ya-de-han-mo-la-bi-fa-dian-bo-yi-lun.md)
   * 物理白魔法
     * 经典的力和加速度
     * 三角函数和力的分解

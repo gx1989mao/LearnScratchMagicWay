@@ -21,8 +21,8 @@
     * [问题还没开始处理就已经被解决 递归](wen-ti-huan-mei-kai-shi-chu-li-jiu-yi-jing-bei-jie-jue-di-gui.md)
     * [排序和查找 有序和贪婪](pai-xu-he-cha-zhao-you-xu-he-tan-lan.md)
     * [避免耦合 队列](yao-pie-qing-guan-xi-zhao-lian-biao-dui-lie.md)
-    * 降维打击 二维数组的实现
-    * 堆栈和树的关系
+    * [堆栈和树的关系](dui-zhan-he-shu-de-guan-xi.md)
+    * [降维打击 二维数组的实现](jiang-wei-da-ji-er-wei-shu-zu-de-shi-xian.md)
     * [风险 加锁和竞争](feng-xian-jia-suo-he-jing-zheng.md)
     * 上知天文下知地理的预测 回归
     * 从开关到王者荣耀 计算机组成

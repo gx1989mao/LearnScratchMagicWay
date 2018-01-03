@@ -8,7 +8,7 @@
     * [Scratch疑难问题举例](part-1-scratchru-men/scratch-abc/scratchyi-nan-wen-ti-ju-li.md)
   * [Scratch的形象世界](part-1-scratchru-men/scratchde-xing-xiang-shi-jie.md)
     * [简单运动控制](part-1-scratchru-men/scratchde-xing-xiang-shi-jie/jian-dan-yun-dong-kong-zhi.md)
-    * 画笔和运动结合的威力
+    * [画笔和运动结合的威力](part-1-scratchru-men/scratchde-xing-xiang-shi-jie/hua-bi-he-yun-dong-jie-he-de-wei-li.md)
     * 外观控制和简单序列帧动画
     * 声音控制和局限
 * Part 2: 程序逻辑及Scratch高级技能

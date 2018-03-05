@@ -27,7 +27,7 @@
     * [风险 加锁和竞争](feng-xian-jia-suo-he-jing-zheng.md)
     * [从开关到王者荣耀 计算机组成](cong-kai-guan-dao-wang-zhe-rong-yao-ji-suan-ji-zu-cheng.md)
 * Part 3: 数学和物理概念可视化应用
-  * 数学黑魔法
+  * [数学黑魔法](shu-xue-hei-mo-fa.md)
     * [数论 高斯的光芒](shu-lun-gao-si-de-guang-mang.md)
     * [指数对数和苹果树](zhi-shu-dui-shu-he-ping-guo-shu.md)
     * [太阳和尼罗河 进制](tai-yang-he-ni-luo-he-jin-zhi.md)
